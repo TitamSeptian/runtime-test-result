@@ -22,7 +22,7 @@ load test {"from":"2024-08-09 03:11:19","to":"2024-08-09 03:22:19"}
 
 ## Response Time
 
-![alt text](image-4.png)
+<!-- ![alt text](image-4.png) -->
 ![alt text](image-5.png)
 
 ## Troughput

@@ -26,5 +26,5 @@ load test {"from":"2024-08-09 01:54:03","to":"2024-08-09 02:05:04"}
 
 ## Response time
 
-![alt text](image-6.png)
+<!-- ![alt text](image-6.png) -->
 ![alt text](image-5.png)
